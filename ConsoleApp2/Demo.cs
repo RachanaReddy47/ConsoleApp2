@@ -11,6 +11,7 @@ namespace ConsoleApp2
         public Demo()
         {
             Console.WriteLine("Demo");
+            Console.WriteLine("Added new line");
         }
     }
 }
